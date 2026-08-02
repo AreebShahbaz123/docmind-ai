@@ -1,0 +1,23 @@
+# Node
+node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Uploads
+uploads/
+
+# Vector DB
+data/
+
+# VS Code (optional)
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
